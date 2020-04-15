@@ -1,20 +1,28 @@
 # ts-workshop
 
-## Prerequisites 
+## Prerequisites
 
-- Python 3.7+ (maybe 2.7 will also work, I didn't check)
+- Python 2.7 or 3.7
 - pip
 
-You need to have Python 3.7 (maybe 2.7 will also work, I didn't check) installed and be able to include the following libraries:
-`numpy>=1.18.2`, `pandas>=1.0.3`, `tensorflow>=2.1.0`, `scikit-learn>=0.22.2`, `matplotlib`, `IPython`
+You need to have Python installed and be able to include the following libraries:
+`numpy`, `pandas`, `tensorflow`, `scikit-learn`, `matplotlib`, `IPython`
 
 
-## Setup 
+## Setup
 
-Install from requirements file: 
+Install from requirements file:
+
+Python 3:
 
 ```
 pip install -r requirements.txt
+```
+
+Python 2:
+
+```
+pip install -r requirements-python2.txt
 ```
 
 ### Download the workshop files
