@@ -1,6 +1,6 @@
 numpy>=1.16
 pandas>=0.24
-tensorflow==2.1.0
+tensorflow==2.6.4
 scikit-learn>=0.20
 matplotlib>=2.2.1
 ipython==5.9.0
